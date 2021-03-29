@@ -6,5 +6,5 @@ description: "An example photo gallery."
 
 photos:
     set: unique
-    size: 5
+    size: 4
 ---

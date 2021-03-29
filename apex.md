@@ -6,5 +6,5 @@ description: "An example photo gallery."
 
 photos:
     set: apex
-    size: 9
+    size: 10 
 ---
