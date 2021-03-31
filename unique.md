@@ -1,8 +1,9 @@
 ---
 layout: photo_set
-title: Unique Raids
+title: Unique 
 permalink: /unique/
 description: "An example photo gallery."
+rarity: nonapex
 
 photos:
     set: unique
