@@ -6,5 +6,5 @@ rarity: apex
 
 photos:
     set: hadros
-    size: 3
+    size: 4
 ---
