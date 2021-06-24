@@ -6,5 +6,5 @@ rarity: apex
 
 photos:
     set: morty
-    size: 3 
+    size: 4 
 ---

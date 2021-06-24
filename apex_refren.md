@@ -1,6 +1,6 @@
 ---
 layout: photo_set
-title: Refrenantum
+title: Refrenantem
 permalink: /apex_refren/
 rarity: apex
 

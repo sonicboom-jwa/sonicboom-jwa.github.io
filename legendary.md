@@ -7,5 +7,5 @@ rarity: nonapex
 
 photos:
     set: legendary
-    size: 4
+    size: 5
 ---
